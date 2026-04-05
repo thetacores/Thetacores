@@ -1,4 +1,4 @@
 ## Hi there 👋
 ## My name is Theta.
 
-![banner](banner.gif)
+![banner width="100%"](banner.gif)

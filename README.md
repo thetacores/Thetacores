@@ -1,12 +1,12 @@
-<h1 align="center">
+<h1 align="center" style="text-decoration: none;>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=THETACORES" alt="Typing SVG" />
 </h1>
 
-<div align="center">
+<div align="center" style="text-decoration: none;>
     <img src="banner.gif" alt="banner" />
 </div>
 
-<h1 align="center">
+<h1 align="center" style="text-decoration: none;>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Theta.;I+build+Operating+Systems+from+scratch.;Bootloaders%2C+kernels%2C+the+whole+stack.;C+%26+x86+Assembly+are+my+tools.;Low-level+is+home." alt="Typing SVG" />
 </h1>
 

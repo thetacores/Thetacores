@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Theta.;I+build+Operating+Systems+from+scratch.;Bootloaders%2C+kernels%2C+the+whole+stack.;C+%26+x86+Assembly+are+my+tools.;Low-level+is+home." alt="Typing SVG" />
 </h1>
 
-<br/>
-
 ---
 
 ### ⚡ Flagship Project
@@ -17,14 +15,6 @@
 </a>
 
 > A custom operating system kernel built from the ground up in **C** and **x86 Assembly** — bootloader, kernel, the whole stack.
-
----
-
-### 📊 Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetacores&layout=donut&theme=github_dark&langs_count=5&hide_border=true" />
-</p>
 
 ---
 

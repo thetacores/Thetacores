@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Theta.;I+build+OSes+from+scratch.;Low-level+is+home." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Theta.;I+build+Operating+Systems+from+scratch.;Bootloaders%2C+kernels%2C+the+whole+stack.;C+%26+x86+Assembly+are+my+tools.;Low-level+is+home." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ### ⚡ Flagship Project
 
 <a href="https://github.com/thetacores/THETAOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetacores&repo=THETAOS&theme=tokyonight&border_color=00D9FF&show_icons=true" />
+  <img src="THETAOS.png" alt="THETAOS" />
 </a>
 
 > A custom operating system kernel built from the ground up in **C** and **x86 Assembly** — bootloader, kernel, the whole stack.
@@ -36,6 +36,26 @@
 
 ---
 
-### 📊 Stats
+### 📬 connect
 
-<img src="https://github-readme-stats.vercel.app/api?username=thetacores&show_icons=true&theme=tokyonight&border_color=00D9FF&count_private=true&hide_title=true" />
+<p>
+  <a href="https://discord.com/users/thetacores">
+    <img src="https://img.shields.io/badge/discord-thetacores-5865f2?style=flat-square&logo=discord&logocolor=white" />
+  </a>
+  <a href="https://instagram.com/thetacores">
+    <img src="https://img.shields.io/badge/instagram-thetacores-e4405f?style=flat-square&logo=instagram&logocolor=white" />
+  </a>
+  <a href="mailto:thetacores@gmail.com">
+    <img src="https://img.shields.io/badge/email-thetacores@gmail.com-d14836?style=flat-square&logo=gmail&logocolor=white" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thetacores/thetacores/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thetacores/thetacores/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/thetacores/thetacores/output/snake.svg" />
+</picture>

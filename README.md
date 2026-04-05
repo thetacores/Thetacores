@@ -12,6 +12,8 @@
 
 </div>
 
+---
+
 ### ⚡ Flagship Project
 
 <a href="https://github.com/thetacores/THETAOS">

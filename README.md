@@ -4,7 +4,7 @@
 
   <br>
 
-  <img src="banner.gif" alt="banner" style="display: block; border: none;" />
+  <img src="banner2.gif" alt="banner2" style="display: block; border: none;" />
 
   <br>
 

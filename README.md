@@ -15,7 +15,7 @@
 ---
 
 ### ⚡ Flagship Project
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=THETACORES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=THETAOS" alt="Typing SVG" />
 <a href="https://github.com/thetacores/THETAOS">
   <img src="THETAOS.png" alt="THETAOS" />
 </a>
